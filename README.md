@@ -1,2 +1,2 @@
 # spiremaritimeAPIs
-This repo spire maritime API scripts in python. All scripts are for demonstration purposes.
+This repo presents spire maritime APIs' scripts in python. All scripts are for demonstration purposes.
